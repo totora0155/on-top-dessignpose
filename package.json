@@ -1,0 +1,23 @@
+{
+  "name": "on-top-dessignpose",
+  "version": "0.1.0",
+  "description": "DESSIGNPOSEを常にウィンドウの一番上に表示できるようにしたもの（半アプリ）",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totora0155/on-top-dessignpose.git"
+  },
+  "keywords": [],
+  "author": "nju33",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/totora0155/on-top-dessignpose/issues"
+  },
+  "homepage": "https://github.com/totora0155/on-top-dessignpose#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
